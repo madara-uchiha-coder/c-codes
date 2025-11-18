@@ -13,7 +13,5 @@ int main(){
     {
         printf("\n%d",mark[i]);
     }
-    
-    
     return 0;
 }
