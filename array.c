@@ -9,6 +9,6 @@ scanf("%d",&marks[i]);
 sum+=marks[i];
 }
 float avg=(float)sum/10.0;
-printf("%0.2f\n",avg);
+printf("\n%0.2f\n",avg);
 return 0;
 }
